@@ -1,2 +1,1 @@
-# algo
-Algorithms I have learnt untill now
+# Code implementations of algorithm and data structure
