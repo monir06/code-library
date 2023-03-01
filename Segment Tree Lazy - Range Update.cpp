@@ -1,3 +1,4 @@
+// https://medium.com/nybles/understanding-range-queries-and-updates-segment-tree-lazy-propagation-and-mos-algorithm-d2cd2f6586d8
 void RangeUpdate(int node, int st, int end, int l, int r, long long val)
 {
 	if(Lazy[node] != 0)  // if node is lazy then update it
